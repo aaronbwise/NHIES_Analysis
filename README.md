@@ -1,5 +1,7 @@
 # NHIES Analysis
 
+![Results]("Summary of Analysis_2015-16 NHIES_Parts_1-2.jpg")
+
 ## Background
 - The Namibia Food and Nutrition Security Policy and Implementation Action Plan (2019-2024) includes strategies to implement and strengthen mandatory fortification of staple foods and condiments.
 - Data and analyses on food production and consumption within households are required to appropriately inform the design and implementation of food and nutrition security policies.
