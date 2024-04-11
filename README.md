@@ -25,12 +25,11 @@ To better understand the household food production and consumption patterns with
 
 ## Tools Used
 
-- Python 3.x
+- Python 3.8
 - Jupyter Notebook or JupyterLab
 - Pandas
 - Matplotlib
 - Seaborn
-- (Any additional libraries used in the notebooks)
 
 
 ## License
